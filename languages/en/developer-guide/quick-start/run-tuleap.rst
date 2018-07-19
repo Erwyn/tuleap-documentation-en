@@ -15,6 +15,8 @@ respective documentation for installation instructions:
 - `scss-lint <https://github.com/brigade/scss-lint/>`_
 - `nodejs <https://nodejs.org/en/>`_ >= v6.x
 - `npm <https://docs.npmjs.com/>`_ >= v6.0
+- `gulp <https://www.npmjs.com/package/gulp-install/>`_
+- `gulp-sass <https://www.npmjs.com/package/gulp-sass/>`_
 - `composer <https://getcomposer.org/>`_
 
    .. IMPORTANT:: By default, composer installs itself in the local directory as ``composer.phar``.
